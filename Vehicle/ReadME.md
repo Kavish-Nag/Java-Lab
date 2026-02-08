@@ -103,7 +103,6 @@ java MainVehicle
    * Petrol and CNG vehicles use fuel amount 40.
 5. Data is printed in tabular format.
 
----
 
 
 
