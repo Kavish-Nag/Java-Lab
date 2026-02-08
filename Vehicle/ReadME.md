@@ -1,6 +1,3 @@
-Here is a clean **GitHub README.md** you can directly paste into your repository.
-
----
 
 # Vehicle Management System in Java
 
