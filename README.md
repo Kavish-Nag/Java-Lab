@@ -1,2 +1,2 @@
 # Java-Lab
-A repo to manage and practice basic java
+A repo to manage and practice basic java.
